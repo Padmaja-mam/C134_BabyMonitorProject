@@ -1,0 +1,27 @@
+body
+{
+background : url("https://images.assetsdelivery.com/compings_v2/svaga/svaga1601/svaga160100077.jpg");
+background-size: contain;
+}
+
+#status , #number_of_objects, #start_model
+{
+font-size: 25px;
+}
+
+canvas
+{
+border: 10px solid pink;
+border-radius: 30px;
+}
+
+h1
+{
+background : pink;
+height : 50px;
+}
+
+h3
+{
+color : black;
+}
